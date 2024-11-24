@@ -15,7 +15,6 @@ namespace superMachine
 
             // Путь к Excel файлу
             string filePath = @"C:\Users\Кирилл\Desktop\Results.xlsx";
-            string init = " ";
             string name = "Прохоров";
 
             // Открытие файла Excel
